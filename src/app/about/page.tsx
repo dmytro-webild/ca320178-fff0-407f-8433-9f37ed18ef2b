@@ -90,7 +90,7 @@ export default function LandingPage() {
           icon: ShieldCheck,
         },
       ]}
-      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BRQDoIB9NyK61wKPrMx774LuGA/an-abstract-high-end-visual-representing-1774469591098-59167e7b.png"
+      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BRQDoIB9NyK61wKPrMx774LuGA/an-abstract-high-end-visual-representing-1774469591098-59167e7b.png?_wi=2"
       imageAlt="Abstract visual representing partnership and sustainable growth"
       mediaAnimation="blur-reveal"
     />
@@ -118,7 +118,7 @@ export default function LandingPage() {
       tag="Our Achievements"
       tagIcon={Medal}
       tagAnimation="slide-up"
-      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BRQDoIB9NyK61wKPrMx774LuGA/a-minimalist-abstract-software-dashboard-1774469590789-37351c22.png"
+      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BRQDoIB9NyK61wKPrMx774LuGA/a-minimalist-abstract-software-dashboard-1774469590789-37351c22.png?_wi=2"
       imageAlt="A clean, high-end UI mockup for a SaaS platform"
       mediaAnimation="blur-reveal"
       metricsAnimation="slide-up"
@@ -146,7 +146,7 @@ export default function LandingPage() {
           name: "Sophia Rodriguez",
           role: "CEO, InnovateX Solutions",
           testimonial: "AERRATRIC TECHNOLOGY INC revolutionized our workflow automation. Their platform is intuitive, powerful, and truly delivered on its promise of sustainable growth.",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BRQDoIB9NyK61wKPrMx774LuGA/professional-headshot-of-a-smiling-femal-1774469590711-21dcb0bd.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BRQDoIB9NyK61wKPrMx774LuGA/professional-headshot-of-a-smiling-femal-1774469590711-21dcb0bd.png?_wi=2",
           imageAlt: "Sophia Rodriguez, CEO",
         },
         {
@@ -154,7 +154,7 @@ export default function LandingPage() {
           name: "David Chen",
           role: "CTO, Global Dynamics",
           testimonial: "The AI integration provided by AERRATRIC TECHNOLOGY INC is unparalleled. It's not just technology; it's a strategic partnership that drives real business value.",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BRQDoIB9NyK61wKPrMx774LuGA/professional-headshot-of-a-smiling-male--1774469591086-83cddd50.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BRQDoIB9NyK61wKPrMx774LuGA/professional-headshot-of-a-smiling-male--1774469591086-83cddd50.png?_wi=2",
           imageAlt: "David Chen, CTO",
         },
         {
@@ -162,7 +162,7 @@ export default function LandingPage() {
           name: "Emily White",
           role: "Marketing Director, Horizon Brands",
           testimonial: "Our data analytics capabilities have soared since implementing their solution. The insights are actionable, leading to smarter campaigns and significant ROI.",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BRQDoIB9NyK61wKPrMx774LuGA/professional-headshot-of-a-smiling-femal-1774469590887-ed9e97c0.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BRQDoIB9NyK61wKPrMx774LuGA/professional-headshot-of-a-smiling-femal-1774469590887-ed9e97c0.png?_wi=2",
           imageAlt: "Emily White, Marketing Director",
         },
         {
@@ -170,7 +170,7 @@ export default function LandingPage() {
           name: "Michael Lee",
           role: "Product Manager, Apex Innovations",
           testimonial: "The team at AERRATRIC TECHNOLOGY INC understood our complex needs perfectly. Their product design and engineering expertise are truly top-tier.",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BRQDoIB9NyK61wKPrMx774LuGA/professional-headshot-of-a-smiling-male--1774469591183-492a2c26.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BRQDoIB9NyK61wKPrMx774LuGA/professional-headshot-of-a-smiling-male--1774469591183-492a2c26.png?_wi=2",
           imageAlt: "Michael Lee, Product Manager",
         },
       ]}
