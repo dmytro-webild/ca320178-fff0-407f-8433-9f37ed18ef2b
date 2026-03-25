@@ -219,7 +219,7 @@ export default function LandingPage() {
       description="Reach out to us to start your project and explore how intelligent software can drive your sustainable growth.\n\nAddress: 3404 North Cascade Avenue, Colorado Springs, CO 80907\nPhone: (866) 319-3883\nEmail: hello@aerrartictechnology.com"
       buttons={[
         {
-          text: "Start Your Project",          href: "mailto:hello@aerrartictechnology.com"},
+          text: "Start Your Project",          href: "mailto:hello@aerrartictechnology.com"}
       ]}
       buttonAnimation="slide-up"
     />
