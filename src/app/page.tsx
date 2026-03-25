@@ -113,7 +113,7 @@ export default function LandingPage() {
           icon: Sparkles,
           title: "AI & Automation",          description: "Integrating intelligent automation and AI solutions to enhance efficiency, drive insights, and unlock new capabilities."},
       ]}
-      title="Our Expert Services"
+      title="Strategic Services for Your Digital Growth"
       description="Leveraging technology, intelligence, and structure for your organic growth across every stage of your digital journey."
     />
   </div>
