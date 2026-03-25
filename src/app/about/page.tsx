@@ -108,13 +108,13 @@ export default function LandingPage() {
       description="Our diverse team of experts is dedicated to pushing the boundaries of technology, delivering intelligent solutions with an unwavering commitment to quality and client success. Each member brings unique skills and a shared passion for innovation."
       team={[
         {
-          name: "Alice Smith",          role: "Chief Executive Officer",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BRQDoIB9NyK61wKPrMx774LuGA/professional-headshot-of-a-smiling-femal-1774469590711-21dcb0bd.png",          imageAlt: "Alice Smith"
+          id: "1",          name: "Alice Smith",          role: "Chief Executive Officer",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BRQDoIB9NyK61wKPrMx774LuGA/professional-headshot-of-a-smiling-femal-1774469590711-21dcb0bd.png",          imageAlt: "Alice Smith"
         },
         {
-          name: "Bob Johnson",          role: "Chief Technology Officer",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BRQDoIB9NyK61wKPrMx774LuGA/professional-headshot-of-a-smiling-male--1774469591086-83cddd50.png",          imageAlt: "Bob Johnson"
+          id: "2",          name: "Bob Johnson",          role: "Chief Technology Officer",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BRQDoIB9NyK61wKPrMx774LuGA/professional-headshot-of-a-smiling-male--1774469591086-83cddd50.png",          imageAlt: "Bob Johnson"
         },
         {
-          name: "Carol White",          role: "Head of Product",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BRQDoIB9NyK61wKPrMx774LuGA/professional-headshot-of-a-smiling-femal-1774469590887-ed9e97c0.png",          imageAlt: "Carol White"
+          id: "3",          name: "Carol White",          role: "Head of Product",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BRQDoIB9NyK61wKPrMx774LuGA/professional-headshot-of-a-smiling-femal-1774469590887-ed9e97c0.png",          imageAlt: "Carol White"
         }
       ]}
     />
