@@ -70,7 +70,7 @@ export default function LandingPage() {
           title: "Ethical AI Integration",          description: "Prioritizing responsible AI development with transparency, user control, and data privacy at its core.",          icon: ShieldCheck,
         },
       ]}
-      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BRQDoIB9NyK61wKPrMx774LuGA/an-abstract-high-end-visual-representing-1774469591098-59167e7b.png"
+      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BRQDoIB9NyK61wKPrMx774LuGA/an-abstract-high-end-visual-representing-1774469591098-59167e7b.png?_wi=1"
       imageAlt="Abstract visual representing partnership and sustainable growth"
       mediaAnimation="blur-reveal"
     />
@@ -92,7 +92,7 @@ export default function LandingPage() {
       tag="Our Achievements"
       tagIcon={Medal}
       tagAnimation="slide-up"
-      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BRQDoIB9NyK61wKPrMx774LuGA/a-minimalist-abstract-software-dashboard-1774469590789-37351c22.png"
+      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BRQDoIB9NyK61wKPrMx774LuGA/a-minimalist-abstract-software-dashboard-1774469590789-37351c22.png?_wi=1"
       imageAlt="A clean, high-end UI mockup for a SaaS platform"
       mediaAnimation="blur-reveal"
       metricsAnimation="slide-up"
@@ -108,13 +108,13 @@ export default function LandingPage() {
       description="Our diverse team of experts is dedicated to pushing the boundaries of technology, delivering intelligent solutions with an unwavering commitment to quality and client success. Each member brings unique skills and a shared passion for innovation."
       team={[
         {
-          id: "1",          name: "Alice Smith",          role: "Chief Executive Officer",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BRQDoIB9NyK61wKPrMx774LuGA/professional-headshot-of-a-smiling-femal-1774469590711-21dcb0bd.png",          imageAlt: "Alice Smith"
+          id: "1",          name: "Alice Smith",          role: "Chief Executive Officer",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BRQDoIB9NyK61wKPrMx774LuGA/professional-headshot-of-a-smiling-femal-1774469590711-21dcb0bd.png?_wi=1",          imageAlt: "Alice Smith"
         },
         {
-          id: "2",          name: "Bob Johnson",          role: "Chief Technology Officer",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BRQDoIB9NyK61wKPrMx774LuGA/professional-headshot-of-a-smiling-male--1774469591086-83cddd50.png",          imageAlt: "Bob Johnson"
+          id: "2",          name: "Bob Johnson",          role: "Chief Technology Officer",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BRQDoIB9NyK61wKPrMx774LuGA/professional-headshot-of-a-smiling-male--1774469591086-83cddd50.png?_wi=1",          imageAlt: "Bob Johnson"
         },
         {
-          id: "3",          name: "Carol White",          role: "Head of Product",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BRQDoIB9NyK61wKPrMx774LuGA/professional-headshot-of-a-smiling-femal-1774469590887-ed9e97c0.png",          imageAlt: "Carol White"
+          id: "3",          name: "Carol White",          role: "Head of Product",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BRQDoIB9NyK61wKPrMx774LuGA/professional-headshot-of-a-smiling-femal-1774469590887-ed9e97c0.png?_wi=1",          imageAlt: "Carol White"
         }
       ]}
     />
@@ -128,13 +128,13 @@ export default function LandingPage() {
       carouselMode="auto"
       testimonials={[
         {
-          id: "1",          name: "Sophia Rodriguez",          role: "CEO, InnovateX Solutions",          testimonial: "AERRATRIC TECHNOLOGY INC revolutionized our workflow automation. Their platform is intuitive, powerful, and truly delivered on its promise of sustainable growth.",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BRQDoIB9NyK61wKPrMx774LuGA/professional-headshot-of-a-smiling-femal-1774469590711-21dcb0bd.png",          imageAlt: "Sophia Rodriguez, CEO"},
+          id: "1",          name: "Sophia Rodriguez",          role: "CEO, InnovateX Solutions",          testimonial: "AERRATRIC TECHNOLOGY INC revolutionized our workflow automation. Their platform is intuitive, powerful, and truly delivered on its promise of sustainable growth.",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BRQDoIB9NyK61wKPrMx774LuGA/professional-headshot-of-a-smiling-femal-1774469590711-21dcb0bd.png?_wi=2",          imageAlt: "Sophia Rodriguez, CEO"},
         {
-          id: "2",          name: "David Chen",          role: "CTO, Global Dynamics",          testimonial: "The AI integration provided by AERRATRIC TECHNOLOGY INC is unparalleled. It's not just technology; it's a strategic partnership that drives real business value.",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BRQDoIB9NyK61wKPrMx774LuGA/professional-headshot-of-a-smiling-male--1774469591086-83cddd50.png",          imageAlt: "David Chen, CTO"},
+          id: "2",          name: "David Chen",          role: "CTO, Global Dynamics",          testimonial: "The AI integration provided by AERRATRIC TECHNOLOGY INC is unparalleled. It's not just technology; it's a strategic partnership that drives real business value.",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BRQDoIB9NyK61wKPrMx774LuGA/professional-headshot-of-a-smiling-male--1774469591086-83cddd50.png?_wi=2",          imageAlt: "David Chen, CTO"},
         {
-          id: "3",          name: "Emily White",          role: "Marketing Director, Horizon Brands",          testimonial: "Our data analytics capabilities have soared since implementing their solution. The insights are actionable, leading to smarter campaigns and significant ROI.",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BRQDoIB9NyK61wKPrMx774LuGA/professional-headshot-of-a-smiling-femal-1774469590887-ed9e97c0.png",          imageAlt: "Emily White, Marketing Director"},
+          id: "3",          name: "Emily White",          role: "Marketing Director, Horizon Brands",          testimonial: "Our data analytics capabilities have soared since implementing their solution. The insights are actionable, leading to smarter campaigns and significant ROI.",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BRQDoIB9NyK61wKPrMx774LuGA/professional-headshot-of-a-smiling-femal-1774469590887-ed9e97c0.png?_wi=2",          imageAlt: "Emily White, Marketing Director"},
         {
-          id: "4",          name: "Michael Lee",          role: "Product Manager, Apex Innovations",          testimonial: "The team at AERRATRIC TECHNOLOGY INC understood our complex needs perfectly. Their product design and engineering expertise are truly top-tier.",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BRQDoIB9NyK61wKPrMx774LuGA/professional-headshot-of-a-smiling-male--1774469591183-492a2c26.png",          imageAlt: "Michael Lee, Product Manager"},
+          id: "4",          name: "Michael Lee",          role: "Product Manager, Apex Innovations",          testimonial: "The team at AERRATRIC TECHNOLOGY INC understood our complex needs perfectly. Their product design and engineering expertise are truly top-tier.",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BRQDoIB9NyK61wKPrMx774LuGA/professional-headshot-of-a-smiling-male--1774469591183-492a2c26.png?_wi=1",          imageAlt: "Michael Lee, Product Manager"},
       ]}
       title="What Our Partners Say"
       description="Hear directly from the leaders who have transformed their operations and achieved new levels of growth with AERRATRIC TECHNOLOGY INC's intelligent software."
