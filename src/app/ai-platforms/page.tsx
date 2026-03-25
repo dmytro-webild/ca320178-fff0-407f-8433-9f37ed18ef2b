@@ -32,11 +32,11 @@ export default function AiPlatformsPage() {
               {
                 name: "Platforms",          id: "platforms"},
               {
-                name: "AI Platforms",          href: "/ai-platforms"},
+                name: "AI Platforms",          id: "/ai-platforms"},
               {
-                name: "Workflow Automation",          href: "/workflow-automation"},
+                name: "Workflow Automation",          id: "/workflow-automation"},
               {
-                name: "Data Systems",          href: "/data-systems"},
+                name: "Data Systems",          id: "/data-systems"},
               {
                 name: "Case Studies",          id: "case-studies"},
               {
