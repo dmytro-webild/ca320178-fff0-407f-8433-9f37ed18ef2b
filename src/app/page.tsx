@@ -259,7 +259,8 @@ export default function LandingPage() {
           ],
         },
       ]}
-      copyrightText="© 2023 AERRATRIC TECHNOLOGY INC. All rights reserved."
+      logoText="AERRATRIC TECHNOLOGY INC"
+      copyrightText="© 2024 AERRATRIC TECHNOLOGY INC. All rights reserved."
     />
   </div>
       </ReactLenis>
