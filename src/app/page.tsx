@@ -171,7 +171,7 @@ export default function LandingPage() {
         {
           id: "infrastructure",          value: "Scalable",          description: "Infrastructure"},
       ]}
-      metricsAnimation="entrance-slide"
+      metricsAnimation="slide-up"
     />
   </div>
 
