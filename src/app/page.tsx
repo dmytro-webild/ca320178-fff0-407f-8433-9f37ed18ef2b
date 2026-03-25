@@ -90,7 +90,7 @@ export default function LandingPage() {
           href: "#platforms",
         },
       ]}
-      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BRQDoIB9NyK61wKPrMx774LuGA/a-minimalist-abstract-software-dashboard-1774469590789-37351c22.png"
+      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BRQDoIB9NyK61wKPrMx774LuGA/a-minimalist-abstract-software-dashboard-1774469590789-37351c22.png?_wi=1"
       imageAlt="Abstract UI dashboard with organic lines"
       mediaAnimation="slide-up"
       marqueeItems={[
@@ -282,7 +282,7 @@ export default function LandingPage() {
       description="AERRATRIC TECHNOLOGY INC is a modern SaaS company that blends technology, intelligence, structure, and organic growth. We forge long-term partnerships and deliver with clarity and execution across diverse industries, including Technology, Healthcare, Logistics, Finance, Construction, Education, and Retail."
       subdescription="Our strategic approach and calm confidence ensure your digital transformation journey is grounded, successful, and tailored to empower enterprise performance."
       icon={Globe}
-      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BRQDoIB9NyK61wKPrMx774LuGA/an-abstract-high-end-visual-representing-1774469591098-59167e7b.png"
+      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BRQDoIB9NyK61wKPrMx774LuGA/an-abstract-high-end-visual-representing-1774469591098-59167e7b.png?_wi=1"
       imageAlt="Abstract organic shapes representing growth and partnership"
       mediaAnimation="slide-up"
     />
@@ -299,7 +299,7 @@ export default function LandingPage() {
           name: "Sarah Johnson",
           handle: "@sarahj",
           testimonial: "AERRATRIC TECHNOLOGY INC delivered beyond expectations. Their intelligent approach transformed our operations and set us on a path of sustainable growth.",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BRQDoIB9NyK61wKPrMx774LuGA/professional-headshot-of-a-smiling-femal-1774469590711-21dcb0bd.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BRQDoIB9NyK61wKPrMx774LuGA/professional-headshot-of-a-smiling-femal-1774469590711-21dcb0bd.png?_wi=1",
           imageAlt: "Sarah Johnson",
         },
         {
@@ -307,7 +307,7 @@ export default function LandingPage() {
           name: "Michael Chen",
           handle: "@michaelc",
           testimonial: "The team at AERRATRIC TECHNOLOGY INC brought calm confidence and deep expertise. Their SaaS platform is a game-changer for our enterprise.",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BRQDoIB9NyK61wKPrMx774LuGA/professional-headshot-of-a-smiling-male--1774469591086-83cddd50.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BRQDoIB9NyK61wKPrMx774LuGA/professional-headshot-of-a-smiling-male--1774469591086-83cddd50.png?_wi=1",
           imageAlt: "Michael Chen",
         },
         {
@@ -315,7 +315,7 @@ export default function LandingPage() {
           name: "Emily Rodriguez",
           handle: "@emilyr",
           testimonial: "Exceptional product design and engineering. AERRATRIC TECHNOLOGY INC truly understands how to build scalable, user-centric solutions.",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BRQDoIB9NyK61wKPrMx774LuGA/professional-headshot-of-a-smiling-femal-1774469590887-ed9e97c0.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BRQDoIB9NyK61wKPrMx774LuGA/professional-headshot-of-a-smiling-femal-1774469590887-ed9e97c0.png?_wi=1",
           imageAlt: "Emily Rodriguez",
         },
         {
@@ -323,7 +323,7 @@ export default function LandingPage() {
           name: "David Kim",
           handle: "@davidk",
           testimonial: "Working with AERRATRIC TECHNOLOGY INC was a strategic decision that paid off. Their AI integration brought new levels of efficiency and insight.",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BRQDoIB9NyK61wKPrMx774LuGA/professional-headshot-of-a-smiling-male--1774469591183-492a2c26.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BRQDoIB9NyK61wKPrMx774LuGA/professional-headshot-of-a-smiling-male--1774469591183-492a2c26.png?_wi=1",
           imageAlt: "David Kim",
         },
       ]}
