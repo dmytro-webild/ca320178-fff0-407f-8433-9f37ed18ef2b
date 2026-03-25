@@ -37,11 +37,17 @@ export default function LandingPage() {
         {
           name: "Platforms",          id: "platforms"},
         {
+          name: "Cloud & DevOps",          id: "/cloud-devops"},
+        {
           name: "Case Studies",          id: "case-studies"},
         {
           name: "About",          id: "about"},
         {
           name: "Contact",          id: "contact"},
+        {
+          name: "Privacy Policy",          id: "/privacy-policy"},
+        {
+          name: "Terms of Service",          id: "/terms-of-service"},
       ]}
       brandName="AERRATRIC TECHNOLOGY INC"
     />
@@ -245,7 +251,15 @@ export default function LandingPage() {
             {
               label: "AI & Automation",              href: "/platforms#ai-integrations"},
             {
-              label: "Cloud & DevOps",              href: "/services#cloud-devops"},
+              label: "Cloud & DevOps",              href: "/cloud-devops"},
+          ],
+        },
+        {
+          title: "Legal",          items: [
+            {
+              label: "Privacy Policy",              href: "/privacy-policy"},
+            {
+              label: "Terms of Service",              href: "/terms-of-service"},
           ],
         },
         {
