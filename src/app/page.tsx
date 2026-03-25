@@ -259,7 +259,6 @@ export default function LandingPage() {
           ],
         },
       ]}
-      logoText="AERRATRIC TECHNOLOGY INC"
       copyrightText="© 2024 AERRATRIC TECHNOLOGY INC. All rights reserved."
     />
   </div>
