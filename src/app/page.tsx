@@ -12,7 +12,7 @@ import NavbarStyleApple from '@/components/navbar/NavbarStyleApple/NavbarStyleAp
 import ProductCardOne from '@/components/sections/product/ProductCardOne';
 import TestimonialAboutCard from '@/components/sections/about/TestimonialAboutCard';
 import TestimonialCardSix from '@/components/sections/testimonial/TestimonialCardSix';
-import { Cloud, Code2, Globe, Layout, Sparkles } from "lucide-react";
+import { Cloud, Code2, Globe, Target, Palette, Sparkles } from "lucide-react";
 
 export default function LandingPage() {
   return (
@@ -98,10 +98,10 @@ export default function LandingPage() {
       useInvertedBackground={true}
       features={[
         {
-          icon: Layout,
+          icon: Target,
           title: "Strategy",          description: "Defining clear roadmaps and innovative solutions that align with your long-term business objectives."},
         {
-          icon: Layout,
+          icon: Palette,
           title: "Product Design",          description: "Crafting intuitive, engaging, and high-performing digital products with user-centric design principles."},
         {
           icon: Code2,
